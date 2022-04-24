@@ -1,2 +1,5 @@
-# console-time-stamp
- 
+# timestamp
+```js
+import getDate from '@jamxu/timestamp';
+console.log(getDate());
+```
